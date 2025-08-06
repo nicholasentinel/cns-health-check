@@ -193,4 +193,4 @@ project-root/
 
 ---
 
-Feel free to adjust colors, figure sizes, or the “top N” threshold by editing `utils/chart_generator.py`. This README covers everything necessary to understand and run the script.
+Feel free to adjust colors, figure sizes, or the “top N” threshold by editing `utils/chart_generator.py`.
