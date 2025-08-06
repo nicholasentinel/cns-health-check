@@ -185,12 +185,6 @@ project-root/
 
 ---
 
-## Notes
-
-- If your CSV contains fewer than 10 distinct truncated labels for a given severity, the chart will show only those available.
-- If a severity has zero matching rows, the script will skip plotting that chart.
-- The first four words of a misconfiguration name are used to group similar names. For example, “Weak SSH Key Detected on Host” and “Weak SSH Key Detected in Container” both become “Weak SSH Key Detected” and share counts.
-
 ---
 
 Feel free to adjust colors, figure sizes, or the “top N” threshold by editing `utils/chart_generator.py`.
