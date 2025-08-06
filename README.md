@@ -1,4 +1,4 @@
-# Misconfiguration Chart Generator
+# S1 CNS Health Check
 
 This project parses a CSV of misconfiguration findings, aggregates counts for “Critical” and “High” severities, and produces horizontal bar charts (PNG by default, with an optional PDF flag) showing the top 10 misconfigurations by frequency.
 
